@@ -14,7 +14,7 @@ const TitleCards = ({title,category}) => {
     method: 'GET',
     headers: {
       accept: 'application/json',
-      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMmM1MTk2MGJkYWFlM2EwNjAyMWFlMWRkMjdlYzNiNyIsInN1YiI6IjY2NjJhZTY1MmI1NmViYWYwNjc2MzFhZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.qkGrtJKa0rCyn5VLDeOrZQYuLZwdunxr8_ywA5PnJec'
+      Authorization: 'key_goes_here'
     }
   };
   
